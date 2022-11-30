@@ -1,3 +1,7 @@
+<div>
+  <img src="https://i.ibb.co/SwkWd1m/github-header.jpg" alt="github-header" border="0">
+</div>
+
 - 👋 Hi, I’m @comconToukir
 - 👀 I’m interested in full stack development
 - 🌱 I’m currently learning html, css, javascript
