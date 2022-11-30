@@ -1,11 +1,16 @@
-<div align="center">
-  <img src="https://i.ibb.co/SwkWd1m/github-header.jpg" alt="github-header" border="0">
-  <div id="badges">
+<img src="https://i.ibb.co/SwkWd1m/github-header.jpg" alt="github-header" border="0">
+<div align="center" id="badges>
+  <h1>
+    Hey there
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+      I am Toukir Ahammed
+    </h1>
+	  <h4>Front End Developer</h4>
   <a href="https://www.linkedin.com/in/ahmdtoukir/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-</div>
+                                                                                                                                
 
 
 - 👋 Hi, I’m @comconToukir
