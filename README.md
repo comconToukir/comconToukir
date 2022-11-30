@@ -1,12 +1,13 @@
-<div>
+<div align="center">
   <img src="https://i.ibb.co/SwkWd1m/github-header.jpg" alt="github-header" border="0">
-</div>
-
-<div id="badges">
+  <div id="badges">
   <a href="https://www.linkedin.com/in/ahmdtoukir/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+</div>
+
+
 - 👋 Hi, I’m @comconToukir
 - 👀 I’m interested in full stack development
 - 🌱 I’m currently learning html, css, javascript
