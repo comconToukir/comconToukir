@@ -1,11 +1,7 @@
 <img src="https://i.ibb.co/SwkWd1m/github-header.jpg" alt="github-header" border="0">
 <div align="center" id="badges>
-  <h1>
-   <h1>                     
-    Hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    </h1>                                                                                      
-    I am Toukir Ahammed
+  <h1>                     
+    Hey there I am Toukir Ahammed
    </h1>
  <h4>Front End Developer</h4>
   <a href="https://www.linkedin.com/in/ahmdtoukir/">
