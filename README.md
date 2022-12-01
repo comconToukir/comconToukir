@@ -16,7 +16,7 @@
 
 - :telescope: I’m looking for oppotunities
 - 🌱 Exploring Front-End technologies
-- 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahmdtoukir/)
+- 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahmdtoukir/)
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
