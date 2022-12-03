@@ -41,6 +41,6 @@
 
 ---
 ### My Stats:
-![Toukir Ahammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=comconToukir&theme=dark&show_icons=true&&background=000000)
+![Toukir Ahammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=comconToukir&theme=chartreuse-dark&show_icons=true&bg_color=00000000)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=comconToukir&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=comconToukir&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
