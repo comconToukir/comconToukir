@@ -1,4 +1,6 @@
-<img src="https://i.ibb.co/SwkWd1m/github-header.jpg" alt="github-header" border="0">
+<picture>
+  <img src="https://i.ibb.co/9Zv1h54/github-header.jpg">
+</picture>
 <div align="center" id="badges">
   <h1>
   Hey there
@@ -6,17 +8,13 @@
     I am Toukir Ahammed
 </h1>
  <h4>Front End Developer</h4>
-  <a href="https://www.linkedin.com/in/ahmdtoukir/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
 </div>
 
 ---
 ### :man_technologist: About Me :
 
-- :telescope: I’m looking for oppotunities
+- :telescope: I’m currently open for work and employment opportunites
 - 🌱 Exploring Front-End technologies
-- 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahmdtoukir/)
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
@@ -44,3 +42,8 @@
 ![Toukir Ahammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=comconToukir&theme=dark&show_icons=true&bg_color=000000)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=comconToukir&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=comconToukir&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### Connect With Me:
+<a href="https://www.linkedin.com/in/ahmdtoukir/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
