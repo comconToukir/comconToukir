@@ -13,8 +13,9 @@
 ---
 ### :man_technologist: About Me :
 
-- :telescope: I’m currently open for work and employment opportunites
-- 🌱 Exploring Front-End technologies
+- :telescope: I’m currently open for employment opportunites
+- Exploring Front-End technologies
+- learning new skills and sharpening old ones
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
